@@ -48,6 +48,8 @@ Audited, cleaned, and deduplicated ~369 records across a multi-sheet workbook. D
 ## Contact
 
 📧 otemuyiwatemiloluwa03@gmail.com
+[LinkedIn](linkedin.com/in/otemuyiwa-temiloluwa-a07891283)
+
 
 ---
 
@@ -55,6 +57,4 @@ Audited, cleaned, and deduplicated ~369 records across a multi-sheet workbook. D
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=111111&icon_color=111111&text_color=444444" alt="GitHub Stats" />
-</p>
+
